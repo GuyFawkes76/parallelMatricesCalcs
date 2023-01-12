@@ -1,0 +1,12 @@
+name: parallelMatricesCalcs
+channels:
+  - defaults
+dependencies:
+  - cudatoolkit
+  - matplotlib
+  - numba
+  - numpy
+  - pandas
+  - pip
+  - python=3.9.15
+prefix: F:\Software\anaconda3\envs\parallelMatricesCalcs
